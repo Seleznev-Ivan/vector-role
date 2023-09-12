@@ -11,7 +11,7 @@
 | vector_log_output | Журнал логов |
 | vector_data_dir | Каталог с данными |
 
-Example Playbook
+## Пример Playbook
 ----------------
 
 ```yml
@@ -22,7 +22,9 @@ Example Playbook
 ```
 
 ## Лицензия
+----------------
 MIT
 
 ## Автор
+----------------
 Иван Селезнев
